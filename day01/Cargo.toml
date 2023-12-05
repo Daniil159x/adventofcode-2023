@@ -1,0 +1,17 @@
+[package]
+name = "day01"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "tasks"
+path = "src/tasks.rs"
+
+[dependencies]
+
+[dev-dependencies]
+criterion = "0.5.1"
+
+[[bench]]
+name = "benchmarks"
+harness = false
