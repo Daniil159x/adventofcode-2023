@@ -11,7 +11,8 @@ The main goal - learn the rust.
 0. Clone repository
 1. Open vscode
 2. Open folder inside devcontainer
-3. Coding!
+3. Add new day task: `cargo new dayXX`
+4. Coding!
 
 ## How to run
 
