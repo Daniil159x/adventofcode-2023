@@ -14,8 +14,6 @@ pub fn solve(content: &str) -> u32 {
         .map(parse_bit_with_joker)
         .collect::<Vec<_>>();
 
-    // dbg!(&bits);
-
     bits.sort();
 
     bits.iter()
