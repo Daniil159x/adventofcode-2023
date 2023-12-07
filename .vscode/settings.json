@@ -4,5 +4,6 @@
         "editor.formatOnSaveMode": "file",
         "editor.defaultFormatter": "rust-lang.rust-analyzer",
     },
-    "rust-analyzer.rustfmt.rangeFormatting.enable": true
+    "rust-analyzer.rustfmt.rangeFormatting.enable": true,
+    "rust-analyzer.showUnlinkedFileNotification": false
 }
