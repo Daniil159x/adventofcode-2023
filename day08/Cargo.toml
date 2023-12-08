@@ -1,0 +1,11 @@
+[package]
+name = "day08"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "tasks"
+path = "src/lib/tasks.rs"
+
+[dependencies]
+num = "0.4.1"
